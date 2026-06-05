@@ -1,7 +1,7 @@
 # This is my Introduction!
 ### I am **Varnika Singh**
 * I learnt the following Styling text:
-```
+
     - **Bold**
     - *Italics*
     - ~~Strike throguh~~
@@ -9,7 +9,6 @@
     - A<sub>SUBSCRIPT</sub>
     - B<sup>SUPERSCRIPT</sup>
     - <ins>Underline</ins>
-```
 
 * Quoting text:
 > This text is quoted
