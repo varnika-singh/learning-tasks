@@ -81,5 +81,3 @@
 ## 15. git status
     - Used to check what changes made in git
     - git status
-
-## 16. 
